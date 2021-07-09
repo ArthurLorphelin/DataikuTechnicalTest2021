@@ -29,5 +29,6 @@ Une autre partie que j'ai essayé de faciliter est la lecture du code en choisis
 
 
 **Difficultés du test technique**
+
 La plus grosse difficulté du test technique fut la lecture des données depuis les fichiers json, et bien comprendre quel format il fallait utiliser mieux mieux exploiter les datas dans le programme.
 Mais une fois que ce fut compris, la relecture du code fut assez simple et rapide.
