@@ -8,7 +8,6 @@ Test technique pour un stage en septembre 2021
 Le sujet du test technique est disponible à l'adresse : https://github.com/dataiku/millenium-falcon-challenge-simple
 
 
-
 **Langage utilisé**
 
 Durant ce test technique, j'ai utilisé le langage Java, alors que je postule pour un stage en python. 
@@ -21,8 +20,6 @@ Le code correspond aussi à mes premières reflexions, c'est-à-dire à comment 
 J'espère que cela peut vous montrer la logique de mon esprit en réponse à un problème et la structure que j'aurais mise en place
 
 
-
-
 **Facilités du test technique**
 
 Comme décrit au dessus, la partie la plus simple pour moi a été de décomposer le problème en sous-problèmes et de les résoudre individuellement.
@@ -31,6 +28,6 @@ Une autre partie que j'ai essayé de faciliter est la lecture du code en choisis
 
 
 
-###Difficultés du test technique
+**Difficultés du test technique**
 La plus grosse difficulté du test technique fut la lecture des données depuis les fichiers json, et bien comprendre quel format il fallait utiliser mieux mieux exploiter les datas dans le programme.
 Mais une fois que ce fut compris, la relecture du code fut assez simple et rapide.
