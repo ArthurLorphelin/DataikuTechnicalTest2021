@@ -3,12 +3,14 @@ Test technique pour un stage en septembre 2021
 
 
 
-###Sujet
+**Sujet**
+
 Le sujet du test technique est disponible à l'adresse : https://github.com/dataiku/millenium-falcon-challenge-simple
 
 
 
-###Langage utilisé
+**Langage utilisé**
+
 Durant ce test technique, j'ai utilisé le langage Java, alors que je postule pour un stage en python. 
 La raison n'est pas que je ne suis pas à l'aise en python, mais que l'IDE que j'ai utilisé a démontré quelques problèmes au moment d'essayer de charger les données depuis les fichiers JSON.
 
@@ -21,7 +23,8 @@ J'espère que cela peut vous montrer la logique de mon esprit en réponse à un 
 
 
 
-###Facilités du test technique
+**Facilités du test technique**
+
 Comme décrit au dessus, la partie la plus simple pour moi a été de décomposer le problème en sous-problèmes et de les résoudre individuellement.
 J'ai voulu créer le maximum de petites fonctions qui n'ont qu'une seule fonction (pour la plupart) en respectant la logique de la Clean Architecture.
 Une autre partie que j'ai essayé de faciliter est la lecture du code en choisissant des noms de variables et de fonctions simplement lisibles, en suivant les règles du Clean Code.
